@@ -44,11 +44,12 @@ img.lado{
     }
     p{
         background-color: #fc9; 
-        border:30px solid #f81010f1; 
-        padding: auto;
-        width: auto;
+        border:10px solid #f81010f1; 
+        padding: 2px;
+        width: 200px;
         text-align: center;
         text-decoration: double;
+        font-size:x-small;
         
     }
     
