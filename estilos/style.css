@@ -39,6 +39,15 @@ img.lado{
         background-color: #f81010f1;
     
     }
+    p{
+        background-color: #fc9; 
+        border:30px solid #f81010f1; 
+        padding: auto;
+        width: auto;
+        text-align: center;
+        text-decoration: double;
+        
+    }
     
     main{
         background-color: rgba(253, 253, 253, 0.74);
