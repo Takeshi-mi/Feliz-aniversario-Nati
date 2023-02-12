@@ -46,10 +46,10 @@ img.lado{
         background-color: #fc9; 
         border:10px solid #f81010f1; 
         padding: 2px;
-        width: 200px;
+        width: auto;
         text-align: center;
         text-decoration: double;
-        font-size:x-small;
+        font-size:small;
         
     }
     
