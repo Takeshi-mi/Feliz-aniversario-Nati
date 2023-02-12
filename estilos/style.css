@@ -7,6 +7,15 @@ h1{
     font-size: 60px;
     color: rgb(242, 43, 43);
 }
+p{
+    background-color: #fc9; 
+    border:30px solid #f81010f1; 
+    padding: 30px;
+    width: 550px;
+    text-align: center;
+    text-decoration: double;
+    
+}
 
 body{
     background-color: #f81010f1;
@@ -17,7 +26,7 @@ main{
     background-color: rgba(253, 253, 253, 0.74);
     width: 900px;
     margin: auto;
-    padding: 10px;
+    padding: 50px;
     box-shadow: 3px 3px 5px rgba(66, 50, 50, 0.425);
 }
 img.lado{
