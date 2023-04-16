@@ -14,6 +14,7 @@ Não tive nenhuma matéria de programação web ainda, tentei aprender só para 
 - Visual Studio Code
 - Git
 - GitHub
+- Código incorporado do Spotify
 
 ### Como acessar?
 Fiz a hospedagem utilizando o GitHub sites que permite a hospedagem gratuita de sites simples.
