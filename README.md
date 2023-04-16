@@ -8,5 +8,13 @@ Incorporei também uma playlist do Spotify executável e personalizei o código 
 
 Não tive nenhuma matéria de programação web ainda, tentei aprender só para esse projeto. No futuro sites cada vez melhores e criativos serão feitos 😉
 
+# Tecnologias Utilizadas 
+- HTML
+- CSS
+- Visual Studio Code
+- Git
+- GitHub
+
+### Como acessar?
 Fiz a hospedagem utilizando o GitHub sites que permite a hospedagem gratuita de sites simples.
 [https://takeshi-mi.github.io/Feliz-aniversario-Nati/](https://takeshi-mi.github.io/Feliz-aniversario-Nati/)
